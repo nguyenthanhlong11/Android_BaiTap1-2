@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ThanhLong</string>
+    <string-array name="name">
+        <item>Chó Pug</item>
+        <item>Chó Poodle</item>
+        <item>Chó Pitbull</item>
+        <item>Chó Husky</item>
+        <item>Chó Beagle</item>
+    </string-array>
+    <string-array name="price">
+        <item>3 000 000</item>
+        <item>2 000 000</item>
+        <item>1 500 000</item>
+        <item>1 200 000</item>
+        <item>2 200 000</item>
+
+    </string-array>
+</resources>
